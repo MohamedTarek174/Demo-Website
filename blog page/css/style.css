@@ -1,0 +1,64 @@
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.blog-page{
+    background: #f8f8f8;
+    height: 100px;
+}
+.blog-page-h3{
+    width: 50%;
+    text-transform: capitalize;
+    font-size: 25px;
+    padding-top: 35px;
+    padding-left :80px;
+    margin: 0;
+    float: left;
+}
+.blog-page-span{
+    width: 30%;
+    float: right;
+    padding-top:30px;
+    padding-right: 10px;
+    text-transform: capitalize;
+    color: #6195ff;
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
+.content-blog{
+    margin-top: 80px;
+}
+.content-blog-main-photo{
+    float: left;
+}
+.blog-content-category{
+    float: left;
+}
+.search-box{
+    background: #f8f8f8;
+    padding: 3px 7px;
+    border-radius: 2px;
+    border: #f8f8f8;
+}
+.category-list,.category-list-nums{
+    list-style: none;
+}
+.category-list-nums{
+    float: right;
+    color: #6195ff;
+    margin: 0;
+}
+.category-list{
+    float: left;
+    text-transform:capitalize;
+    margin: 0;
+}
+.category-list li{
+    padding-bottom: 5px;
+}
+.category span{
+    text-transform: uppercase;
+    font-size: larger;
+    
+}
